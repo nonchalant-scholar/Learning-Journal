@@ -6,6 +6,7 @@
   <li>Threat types</li>
   <li>Attack surfaces</li>
 </ul>
+<br>
 2. today i completed getting started with cybersecurity from IBM Key learnings:<br>
 <ul>
   <li> Roles in cybersecurity </li>
