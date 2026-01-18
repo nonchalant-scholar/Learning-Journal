@@ -13,4 +13,12 @@
   <li> Importance of risk-based security </li>
   <li> Basics of SOC operations </li>
 </ul>
-3. 
+<br>
+3. today i started the 30_dys_of_python challenge :
+  where i completed the 1st chapter "introduction" Which covwered
+  <ul>
+    <li> installation of python and vs code. </li>
+    <li> datatypes. </li>
+    <li> usecase of type function. </li>
+    <li> an excercise concluding euclidian distance. </li>
+  </ul>
